@@ -1,5 +1,5 @@
 # GoRoutines example with timings
-In this example I am demonstrating the usage of GoRoutines
+In this example I am demonstrating the usage of GoRoutines. <br/>
 As you can see with the recorded timings, more than one CPU core is used here.
 
 ## Program execution
